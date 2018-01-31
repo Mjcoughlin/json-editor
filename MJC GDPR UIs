@@ -1,0 +1,19 @@
+{
+	  "EBSCOData.statement": "At EBSCO, we do not give out or sell people’s information with third parties.",
+	  "Consult.whywecollect": "Why we collect your data: EBSCO collects your Personal data to help us deliver, develop and enhance our Customer’s experience on EBSCO Products.",
+	  "Consult.datawecollect": "This is the data we collect: EBSCO collects Login credentials and related security questions.",
+	  "Consult.consentwithdrawal": "Withdrawing Your Consent: You may withdraw your Consent at any time through EBSCO’s “Personal Data Retention and Usage” request portal. If you do this, you will be unable to access EBSCO products using your personal login credentials. You will still be able to access EBSCO products via Institutional credentials. In addition, before you provide Consent, you may cancel and exit the consent process by clicking the “Cancel” (or other similarly titled button) and closing your browser.",
+	  "Consult.whyweuseyourdata": "What we use your data for: EBSCO leverages your personal data to analyze and improve our products for your benefit. We also compile Usage reports to determine product impact and areas for additional focus in an effort to improve EBSCO products.",
+	  "Consent.Grant": "I grant Consent to EBSCO to retain my personal data.",
+	  "Consent.Deny": "I do not grant Consent to EBSCO to retain my personal data.",
+	  "Navbar.curriculum": "Curriculum Standards",
+	  "Navbar.help": "Help",
+	  "Result.filter": "Filter",
+	  "Result.resultCount": "Search Results:",
+	  "Result.mobileMenu": "mobile menu",
+	  "Result.notFoundTitle": "Page not found.",
+	  "Result.notFoundMessage": "Sorry, we couldn't find the page you requested.",
+	  "Result.unauthorizedTitle": "Unauthorized.",
+	  "Result.unauthorizedMessage": "Sorry, you are unauthorized to view this page.",
+	  "Detail.fullTextTOCTitle": "Sections"
+	}
